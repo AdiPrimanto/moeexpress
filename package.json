@@ -1,0 +1,22 @@
+{
+  "name": "moeexpress",
+  "version": "0.0.1",
+  "description": "restful api express mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "express",
+    "mongodb"
+  ],
+  "author": "Adi Primanto",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.4",
+    "mongose": "0.0.2-security"
+  }
+}
